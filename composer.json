@@ -1,0 +1,15 @@
+{
+    "name": "sminnee/silverstripe-segment",
+    "description": "Integration with Segment.com via Tag Manager",
+    "type": "silverstripe-vendormodule",
+    "require": {
+        "sminnee/tagmanager": "*"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Sam Minnee",
+            "email": "sam@silverstripe.com"
+        }
+    ]
+}
