@@ -1,0 +1,6 @@
+---
+Name: segment
+---
+SilverStripe\CMS\Controllers\SiteTree:
+  extensions:
+   - Sminnee\SilverstripeSegment\SegmentSiteTreeExtension
